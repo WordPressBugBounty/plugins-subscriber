@@ -1,7 +1,7 @@
 ﻿=== Subscriber by BestWebSoft ===
-Contributors: bestwebsoft
+Contributors: bestweblayout
 Donate link: https://bestwebsoft.com/donate/
-Tags: add subsribe form, display subscribe form, subscriber, subscriber plugin, subscribe to newsletters, subscriber list, subscriber widget, subscription, website newsletters, subscribe, newsletters, add subscriber widget
+Tags: add subsribe form, display subscribe form, subscriber, subscriber plugin, subscribe to newsletters
 Requires at least: 5.6
 Tested up to: 6.5
 Stable tag: 1.4.9
